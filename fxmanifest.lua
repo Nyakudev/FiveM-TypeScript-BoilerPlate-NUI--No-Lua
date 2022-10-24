@@ -8,9 +8,9 @@ fx_version 'cerulean'
 game 'gta5'
 
 client_script {
-'client/*.lua',
-'build/js/client/commands.js',
-'build/js/client/ui.js'
+    'client/*.lua',
+    'build/js/client/commands.js',
+    'build/js/client/ui.js'
 }
 
 server_script {

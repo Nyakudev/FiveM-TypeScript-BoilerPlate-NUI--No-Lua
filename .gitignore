@@ -1,0 +1,26 @@
+*lock
+*.env
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+*.sql
+*.db
+*.bkp
+
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode
+.editorconfig
+
+# Repository #
+##############
+node_modules/
+build/
